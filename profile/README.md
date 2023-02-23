@@ -1,4 +1,6 @@
-# Welcome to **Is It Safe?**, An app for LGBTQ+ people based in Brazil.
+# Welcome to **Is It Safe?**
+
+## An app for LGBTQ+ people based in Brazil.
 
 ![Cópia de Linkedin - Capa](https://user-images.githubusercontent.com/51540772/220807346-5b3b7e8e-2877-4d9d-a092-48ab7e0470a5.png)
 
